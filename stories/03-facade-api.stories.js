@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Button } from "@storybook/react/demo";
 import { getPolly } from "storybook-addon-r2request";
 
-export default { title: "Facade api for developing app components upfront" };
+export default { title: "03-Facade api" };
 
 export const clickButtonToRequestApi = () => {
   const [state, setState] = useState({ message: null });

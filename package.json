@@ -10,7 +10,10 @@
     "babel-jest": "^24.9.0",
     "babel-plugin-require-context-hook": "^1.0.0",
     "isomorphic-fetch": "^2.2.1",
+    "react-redux": "^7.1.3",
     "react-test-renderer": "^16.11.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
     "require-context.macro": "^1.2.2",
     "storybook-addon-r2request": "^1.3.0"
   },
