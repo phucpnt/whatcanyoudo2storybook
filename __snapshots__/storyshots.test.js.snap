@@ -1,5 +1,100 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots 01-Develop component Emoji 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "border": "1px solid #eee",
+      "borderRadius": 3,
+      "cursor": "pointer",
+      "fontSize": 15,
+      "margin": 10,
+      "padding": "3px 10px",
+    }
+  }
+  type="button"
+>
+  <span
+    aria-label="so cool"
+    role="img"
+  >
+    😀 😎 👍 💯
+  </span>
+</button>
+`;
+
+exports[`Storyshots 01-Develop component Text 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "border": "1px solid #eee",
+      "borderRadius": 3,
+      "cursor": "pointer",
+      "fontSize": 15,
+      "margin": 10,
+      "padding": "3px 10px",
+    }
+  }
+  type="button"
+>
+  Hello Button
+</button>
+`;
+
+exports[`Storyshots 02-Redux connect Simple Store Setup 1`] = `
+Array [
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "border": "1px solid #eee",
+        "borderRadius": 3,
+        "cursor": "pointer",
+        "fontSize": 15,
+        "margin": 10,
+        "padding": "3px 10px",
+      }
+    }
+    type="button"
+  >
+    Trigger store dispatch
+  </button>,
+  <div>
+    Store message 
+  </div>,
+]
+`;
+
+exports[`Storyshots 02-Redux connect Store With Thunk 1`] = `
+Array [
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "border": "1px solid #eee",
+        "borderRadius": 3,
+        "cursor": "pointer",
+        "fontSize": 15,
+        "margin": 10,
+        "padding": "3px 10px",
+      }
+    }
+    type="button"
+  >
+    Trigger store dispatch
+  </button>,
+  <div>
+    Store message 
+  </div>,
+]
+`;
+
 exports[`Storyshots Button Emoji 1`] = `
 <button
   onClick={[Function]}
