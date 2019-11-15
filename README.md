@@ -1,6 +1,6 @@
 ### Hi
 This repo is the collection of example story that demonstrating what I can do to storybook.
-I only choose the most common practices I used every daily dev.
+I only choose the most common practices I did to storybook.
 
 ### What I can do to storybook
 
